@@ -4,7 +4,6 @@ title: Técnicas computacionais para sumarização de áudio
 subtitle: Projeto de Iniciação Científica
 ---
 
-
 Esse trabalho tem como objetivo estudar a teoria por trás das
 principais técnicas de sumarização de gravações musicais, isto é,
 encontrar o segmento de áudio que melhor representa e que mais se
