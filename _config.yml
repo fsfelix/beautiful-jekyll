@@ -23,7 +23,7 @@ description: Esse site conterá os avanços no meu projeto de IC.
 
 # List of links in the navigation bar
 navbar-links:
-  Projeto: "aboutme"
+  Sobre o projeto: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
