@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Técnicas computacionais para sumarização de áudio
+subtitle: Projeto de Iniciação Científica
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Esse trabalho tem como objetivo estudar a teoria por trás das
+principais técnicas de sumarização de gravações musicais, isto é,
+encontrar o segmento de áudio que melhor representa e que mais se
+repete numa dada gravação. Dado a semelhança entre os problemas, esse
+trabalho também envolverá análises estruturais de uma gravação
+musical. Temos por objetivo também implementar certas técnicas e
+comparar seus resultados pontuando suas diferenças e similaridades.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
