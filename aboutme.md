@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Técnicas computacionais para sumarização de áudio
-subtitle: Projeto de Iniciação Científica
+subtitle: Técnicas computacionais para sumarização de áudio
 ---
 
 Esse trabalho tem como objetivo estudar a teoria por trás das
