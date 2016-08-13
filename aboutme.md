@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Técnicas computacionais para sumarização de áudio
 subtitle: Projeto de Iniciação Científica
 ---
